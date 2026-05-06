@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Backend development projects using Node.js, Express, MongoDB, and Docker<br><br>👯 I’m looking to collaborate on<br>Full-stack web apps, open-source projects, and startup ideas<br><br>🤝 I’m looking for help with<br>System design, scalable backend architecture, and DevOps<br><br>🌱 I’m currently learning<br>C++ programming, authentication systems, CI/CD, and containerization<br><br>💬 Ask me about<br>JavaScript, REST APIs, JWT authentication, MongoDB, and backend development<br><br>⚡ Fun fact<br>I enjoy turning random ideas into working software and solving real-world problems with code
+🔭 I’m currently working on<br>Backend development projects using Node.js, Express, MongoDB, and Docker<br><br>👯 I’m looking to collaborate on<br>Full-stack web apps, open-source projects, and startup ideas<br><br>🤝 I’m looking for help with<br>System design, scalable backend architecture, and DevOps<br><br>🌱 I’m currently learning<br>C++ programming, authentication systems, CI/CD, and containerization<br><br>⚡ Fun fact<br>I enjoy turning random ideas into working software and solving real-world problems with code
 
 
 
