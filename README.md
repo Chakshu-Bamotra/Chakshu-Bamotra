@@ -22,9 +22,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Chakshu-Bamotra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <br></br>
-<br></br>
 ![](https://streak-stats.demolab.com/?user=Chakshu-Bamotra&theme=dark&hide_border=false)<br/>
-<br></br>
 <br></br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chakshu-Bamotra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
