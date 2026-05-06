@@ -18,13 +18,12 @@ Hey, I am~
 ██
 ██                                                                          
 ██
+██                                                            <img width="500" height="281" alt="gify" src="https://github.com/user-attachments/assets/0c14563a-88fa-418f-b12c-ec884f6a4eae" /><br>
+██
+██
+██
+██
 ```
-██       <img width="500" height="281" alt="gify" src="https://github.com/user-attachments/assets/0c14563a-88fa-418f-b12c-ec884f6a4eae" /><br>
-██<br>
-██<br>
-██<br>
-██<br>
-██<br>
 
 
 # 💻 Tech Stack:
