@@ -40,9 +40,11 @@ Hey, I am~
 <br></br>
 <br></br>
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y2N2Y5Y2Y3NTM3YzQ0ZDJmNGRlMWQ2NGQwYzM5YjQ1Mjg4Y2Y4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/>
-
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="800"/>
+<img src="https://media.tenor.com/oqyUP8olluoAAAAC/matrix-code.gif" width="800"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="800"/>
+<img src="https://media.tenor.com/8Qx8x7B7JksAAAAC/pixel-art.gif" width="800"/>
+<img src="https://media.tenor.com/9vRAkntogEMAAAAC/pixel-art-rpg.gif" width="800"/>
 </div>
 <br></br>
 <br></br>
