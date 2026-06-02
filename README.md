@@ -39,6 +39,89 @@ Hey, I am~
 </div>
 <br></br>
 <br></br>
+<svg width="900" height="250" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.bg { fill:#0d1117; }
+
+.text{
+  fill:#58a6ff;
+  font-family:monospace;
+  font-size:18px;
+}
+
+#player{
+  animation: movePlayer 6s infinite linear;
+}
+
+.bullet{
+  fill:#58a6ff;
+  animation: shoot 1.2s infinite linear;
+}
+
+.enemy1{
+  animation: enemyMove1 4s infinite linear;
+}
+
+.enemy2{
+  animation: enemyMove2 5s infinite linear;
+}
+
+@keyframes movePlayer{
+  0%,100%{transform:translate(0px,0px);}
+  50%{transform:translate(30px,0px);}
+}
+
+@keyframes shoot{
+  from{transform:translate(0px,0px);}
+  to{transform:translate(700px,0px);}
+}
+
+@keyframes enemyMove1{
+  from{transform:translate(0px,0px);}
+  to{transform:translate(-650px,0px);}
+}
+
+@keyframes enemyMove2{
+  from{transform:translate(0px,0px);}
+  to{transform:translate(-650px,0px);}
+}
+</style>
+
+<rect class="bg" width="100%" height="100%"/>
+
+<text x="20" y="35" class="text">
+🎮 CHAKSHU'S OPEN SOURCE DEFENSE
+</text>
+
+<!-- Player -->
+<text id="player" x="50" y="130" class="text">
+🚀
+</text>
+
+<!-- Bullets -->
+<circle class="bullet" cx="90" cy="123" r="3"/>
+<circle class="bullet" cx="90" cy="123" r="3">
+  <animate attributeName="begin" from="0" to="0" dur="0.4s"/>
+</circle>
+
+<!-- Enemies -->
+<text class="enemy1" x="820" y="100" class="text">
+🐛
+</text>
+
+<text class="enemy2" x="850" y="160" class="text">
+👾
+</text>
+
+<!-- HUD -->
+<text x="20" y="210" class="text">
+LEVEL 17 | PRs MERGED: 61 | BUGS DESTROYED: 143
+</text>
+
+</svg>
+<br></br>
+<br></br>
 
 
 
