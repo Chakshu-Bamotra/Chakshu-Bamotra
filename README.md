@@ -40,8 +40,7 @@ Hey, I am~
 <br></br>
 <br></br>
 <div align="center">
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="800"/>
-<img src="https://media.tenor.com/oqyUP8olluoAAAAC/matrix-code.gif" width="800"/>
+
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="800"/>
 <img src="https://media.tenor.com/8Qx8x7B7JksAAAAC/pixel-art.gif" width="800"/>
 <img src="https://media.tenor.com/9vRAkntogEMAAAAC/pixel-art-rpg.gif" width="800"/>
