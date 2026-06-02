@@ -39,12 +39,7 @@ Hey, I am~
 </div>
 <br></br>
 <br></br>
-<div align="center">
 
-<img src="https://media.tenor.com/9vRAkntogEMAAAAC/pixel-art-rpg.gif" width="800"/>
-</div>
-<br></br>
-<br></br>
 
 
 
